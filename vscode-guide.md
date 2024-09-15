@@ -26,4 +26,6 @@ Go to extensions (CTL+Shift+X) and add:
   Supercharge Git within VS Code
 
 Change the default code formatter:
-go to setting (CTL+,) and search for `default code formatter`; change to "black"
+go to setting (CTL+,)
+search for `default code formatter`; change to "black"
+search for `auto save`; change to "On Focus Change"
