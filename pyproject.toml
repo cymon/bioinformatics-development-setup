@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "bioinformatics-development-setup"
+version = "0.1.0"
+description = "A basic development environment for bioinformatics"
+authors = ["Cymon J. Cox <cymon.cox@googlemail.com>"]
+license = "MIT"
+readme = "README.ipynb"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+pre-commit = "^3.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
