@@ -8,14 +8,8 @@ Go to extensions (CTL+Shift+X) and add:
 
 - Black:
   Format Python code with black
-
 - Codeium:
   The modern coding superpower, free AI code acceleration plugin for your favorite languages
-
-- Python Extension Pack:
-  Collection of extensions related to python (LeoJhonSong)
-- Python Extension Pack:
-  Popular Visual Studio Code extensions for Python (Don Jayamanne)
 - Git Extension Pack:
   Popular Visual Studio Code extensions for Git
 - Git History:
