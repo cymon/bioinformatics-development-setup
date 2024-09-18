@@ -2,13 +2,10 @@
 .ipynb_checkpoints/*
 
 # poetry
-poetry.lock
 .venv
-
-# pre-commit config
-.pre-commit-config.yaml
 
 # Project specific
 bioinformatics-development-setup.code-workspace
 *.swp
 .vscode
+.ruff_cache
