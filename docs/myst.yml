@@ -7,10 +7,10 @@ project:
   keywords: ["Obsolete"]
   authors: ["Cymon J. Cox"]
   github: https://github.com/cymon/bioinformatics-development-setup
-toc:
-  - file: index.md
-  - title: Introduction
-    children:
-      - file: 01-introduction/about-this-handbook.md
+  toc:
+    - file: index.md
+    - title: Introduction
+      children:
+        - file: a/b.md
 site:
   template: book-theme
