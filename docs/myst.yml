@@ -6,7 +6,7 @@ project:
   description: Just the way I (used to) do it...
   keywords: ["Obsolete"]
   authors: ["Cymon J. Cox"]
-  github: https://github.com/cymon/bioinformatics-development-setup
+  github: https://github.com/cymon/bioinformatics-development-setup/docs
   toc:
     - file: index.md
     - title: Introduction
