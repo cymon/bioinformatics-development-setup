@@ -1,5 +1,5 @@
 ---
-title: An obsolete setup for my bioinformatics dev
+title: Thi is the header in my index.md file
 date: 2025-11-04
 authors:
   - name: Cymon J. Cox
@@ -8,6 +8,6 @@ authors:
 ---
 
 
-## About this nonsense
+## First heading in index.md
 
 Yeah, this is my index page
