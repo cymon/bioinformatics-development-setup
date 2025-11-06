@@ -1,16 +1,13 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: My dev setup that I no longer use...
+  id: Hmm...
   title: bioinformatics-development-setup
-  description: Just the way I (used to) do it...
   keywords: ["Obsolete"]
   authors: ["Cymon J. Cox"]
+  date: 2025-11-06
   github: https://github.com/cymon/bioinformatics-development-setup
   toc:
-    - file: index.md
-    - title: Introduction
-      children:
-        - file: a/b.md
+    - file: README.ipynb
 site:
   template: book-theme

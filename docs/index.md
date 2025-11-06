@@ -7,6 +7,3 @@ affiliations:
   - institution: CCMAR
 ---
 
-## First heading in index.md
-
-Yeah, this is my index page

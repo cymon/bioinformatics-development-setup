@@ -9,3 +9,5 @@ bioinformatics-development-setup.code-workspace
 *.swp
 .vscode
 .ruff_cache
+# MyST build outputs
+_build
