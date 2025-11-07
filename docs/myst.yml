@@ -8,6 +8,20 @@ project:
   date: 2025-11-06
   github: https://github.com/cymon/bioinformatics-development-setup
   toc:
-    - file: README.ipynb
+    - file: index.md
+    - title: General setup
+      children:
+        - file: README.ipynb
+    - title: Nextflow Core
+      children:
+        - file: ../nf-core-mag-setup.ipynb
+    #- title: Introduction
+    #  children:
+    #      - file: 01-introduction/about-this-handbook.md
+    #      - file: 01-introduction/graphic-navigation-guide.md
+    #- title: Data Management Flow
+    #  children:
+    #      - file: 02-data-management-flow/infographic-on-data-flow.md
+    #      - file: 02-data-management-flow/data-ingestion-processes.md
 site:
   template: book-theme
