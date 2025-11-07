@@ -1,8 +1,8 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: Hmm...
-  title: bioinformatics-development-setup
+  id: bioinformatics-development-setup
+  title: Some mostly obsolete setup...
   keywords: ["Obsolete"]
   authors: ["Cymon J. Cox"]
   date: 2025-11-06
